@@ -1,0 +1,17 @@
+D:\back-end-projects\ToDoListWebApi\ToDoListDAL\bin\Debug\net8.0\ToDoListDAL.deps.json
+D:\back-end-projects\ToDoListWebApi\ToDoListDAL\bin\Debug\net8.0\ToDoListDAL.runtimeconfig.json
+D:\back-end-projects\ToDoListWebApi\ToDoListDAL\bin\Debug\net8.0\ToDoListDAL.dll
+D:\back-end-projects\ToDoListWebApi\ToDoListDAL\bin\Debug\net8.0\ToDoListDAL.pdb
+D:\back-end-projects\ToDoListWebApi\ToDoListDAL\bin\Debug\net8.0\ToDoListDTOs.dll
+D:\back-end-projects\ToDoListWebApi\ToDoListDAL\bin\Debug\net8.0\ToDoListDTOs.pdb
+D:\back-end-projects\ToDoListWebApi\ToDoListDAL\obj\Debug\net8.0\ToDoListDAL.csproj.AssemblyReference.cache
+D:\back-end-projects\ToDoListWebApi\ToDoListDAL\obj\Debug\net8.0\ToDoListDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\back-end-projects\ToDoListWebApi\ToDoListDAL\obj\Debug\net8.0\ToDoListDAL.AssemblyInfoInputs.cache
+D:\back-end-projects\ToDoListWebApi\ToDoListDAL\obj\Debug\net8.0\ToDoListDAL.AssemblyInfo.cs
+D:\back-end-projects\ToDoListWebApi\ToDoListDAL\obj\Debug\net8.0\ToDoListDAL.csproj.CoreCompileInputs.cache
+D:\back-end-projects\ToDoListWebApi\ToDoListDAL\obj\Debug\net8.0\ToDoList.36C78732.Up2Date
+D:\back-end-projects\ToDoListWebApi\ToDoListDAL\obj\Debug\net8.0\ToDoListDAL.dll
+D:\back-end-projects\ToDoListWebApi\ToDoListDAL\obj\Debug\net8.0\refint\ToDoListDAL.dll
+D:\back-end-projects\ToDoListWebApi\ToDoListDAL\obj\Debug\net8.0\ToDoListDAL.pdb
+D:\back-end-projects\ToDoListWebApi\ToDoListDAL\obj\Debug\net8.0\ToDoListDAL.genruntimeconfig.cache
+D:\back-end-projects\ToDoListWebApi\ToDoListDAL\obj\Debug\net8.0\ref\ToDoListDAL.dll
