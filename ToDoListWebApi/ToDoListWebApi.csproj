@@ -11,10 +11,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\ToDoListBAL\ToDoListBAL.csproj" />
     <ProjectReference Include="..\ToDoListDTOs\ToDoListDTOs.csproj" />
   </ItemGroup>

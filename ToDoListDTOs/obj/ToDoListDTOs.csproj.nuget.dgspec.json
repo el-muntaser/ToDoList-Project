@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\back-end-projects\\ToDoListWebApi\\ToDoListDTOs\\ToDoListDTOs.csproj": {}
+    "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListDTOs\\ToDoListDTOs.csproj": {}
   },
   "projects": {
-    "D:\\back-end-projects\\ToDoListWebApi\\ToDoListDTOs\\ToDoListDTOs.csproj": {
+    "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListDTOs\\ToDoListDTOs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\back-end-projects\\ToDoListWebApi\\ToDoListDTOs\\ToDoListDTOs.csproj",
+        "projectUniqueName": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListDTOs\\ToDoListDTOs.csproj",
         "projectName": "ToDoListDTOs",
-        "projectPath": "D:\\back-end-projects\\ToDoListWebApi\\ToDoListDTOs\\ToDoListDTOs.csproj",
+        "projectPath": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListDTOs\\ToDoListDTOs.csproj",
         "packagesPath": "C:\\Users\\elmun\\.nuget\\packages\\",
-        "outputPath": "D:\\back-end-projects\\ToDoListWebApi\\ToDoListDTOs\\obj\\",
+        "outputPath": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListDTOs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

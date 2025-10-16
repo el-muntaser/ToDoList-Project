@@ -28,7 +28,7 @@ namespace ToDoListDAL.Configure
 
             builder.Property(u => u.Password)
                 .IsRequired()
-                .HasMaxLength(50);
+                .HasMaxLength(100);
 
             builder.Property(u => u.RoleId)
                 .IsRequired();

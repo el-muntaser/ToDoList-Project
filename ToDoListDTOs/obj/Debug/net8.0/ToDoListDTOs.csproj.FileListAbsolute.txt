@@ -9,3 +9,15 @@ D:\back-end-projects\ToDoListWebApi\ToDoListDTOs\obj\Debug\net8.0\ToDoListDTOs.d
 D:\back-end-projects\ToDoListWebApi\ToDoListDTOs\obj\Debug\net8.0\refint\ToDoListDTOs.dll
 D:\back-end-projects\ToDoListWebApi\ToDoListDTOs\obj\Debug\net8.0\ToDoListDTOs.pdb
 D:\back-end-projects\ToDoListWebApi\ToDoListDTOs\obj\Debug\net8.0\ref\ToDoListDTOs.dll
+D:\back-end-projects\ToDoListWebApi\ToDoList-Project\ToDoListDTOs\bin\Debug\net8.0\ToDoListDTOs.deps.json
+D:\back-end-projects\ToDoListWebApi\ToDoList-Project\ToDoListDTOs\bin\Debug\net8.0\ToDoListDTOs.dll
+D:\back-end-projects\ToDoListWebApi\ToDoList-Project\ToDoListDTOs\bin\Debug\net8.0\ToDoListDTOs.pdb
+D:\back-end-projects\ToDoListWebApi\ToDoList-Project\ToDoListDTOs\obj\Debug\net8.0\ToDoListDTOs.GeneratedMSBuildEditorConfig.editorconfig
+D:\back-end-projects\ToDoListWebApi\ToDoList-Project\ToDoListDTOs\obj\Debug\net8.0\ToDoListDTOs.AssemblyInfoInputs.cache
+D:\back-end-projects\ToDoListWebApi\ToDoList-Project\ToDoListDTOs\obj\Debug\net8.0\ToDoListDTOs.AssemblyInfo.cs
+D:\back-end-projects\ToDoListWebApi\ToDoList-Project\ToDoListDTOs\obj\Debug\net8.0\ToDoListDTOs.csproj.CoreCompileInputs.cache
+D:\back-end-projects\ToDoListWebApi\ToDoList-Project\ToDoListDTOs\obj\Debug\net8.0\ToDoListDTOs.sourcelink.json
+D:\back-end-projects\ToDoListWebApi\ToDoList-Project\ToDoListDTOs\obj\Debug\net8.0\ToDoListDTOs.dll
+D:\back-end-projects\ToDoListWebApi\ToDoList-Project\ToDoListDTOs\obj\Debug\net8.0\refint\ToDoListDTOs.dll
+D:\back-end-projects\ToDoListWebApi\ToDoList-Project\ToDoListDTOs\obj\Debug\net8.0\ToDoListDTOs.pdb
+D:\back-end-projects\ToDoListWebApi\ToDoList-Project\ToDoListDTOs\obj\Debug\net8.0\ref\ToDoListDTOs.dll

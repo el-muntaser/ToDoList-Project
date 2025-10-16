@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uDgPkbzvDsQ=",
+  "dgSpecHash": "Gvpm3EBIjZE=",
   "success": true,
-  "projectFilePath": "D:\\back-end-projects\\ToDoListWebApi\\ToDoListBAL\\ToDoListBAL.csproj",
+  "projectFilePath": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListBAL\\ToDoListBAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\elmun\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\elmun\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

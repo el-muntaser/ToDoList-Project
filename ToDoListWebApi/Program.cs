@@ -1,6 +1,8 @@
 
 using Microsoft.EntityFrameworkCore;
+using ToDoListBAL;
 using ToDoListDAL.Data;
+using ToDoListDAL.DataRepo;
 
 namespace ToDoListWebApi
 {
@@ -15,6 +17,8 @@ namespace ToDoListWebApi
 
             builder.Services.AddDbContext<AppDbContext>(options =>
             options.UseSqlServer(builder.Configuration.GetConnectionString("default")));
+            builder.Services.AddScoped<IUserManage, UserManage>();
+            builder.Services.AddScoped<IUserServices, UserServices>();
 
             builder.Services.AddControllers();
             
