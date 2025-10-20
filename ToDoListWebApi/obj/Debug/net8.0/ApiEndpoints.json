@@ -1,5 +1,36 @@
 [
   {
+    "ContainingType": "ToDoListWebApi.Controllers.AuthController",
+    "Method": "Auth",
+    "RelativePath": "api/Auth",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Phone",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Password",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ToDoListDTOs.AuthDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "ToDoListWebApi.Controllers.UserManageController",
     "Method": "AddNewUser",
     "RelativePath": "api/UserManage/AddNewUser",
