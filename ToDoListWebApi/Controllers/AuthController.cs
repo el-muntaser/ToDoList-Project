@@ -20,17 +20,27 @@ namespace ToDoListWebApi.Controllers
         }
 
         [HttpPost]
-        public async Task<ActionResult<AuthDto>> Auth(string Phone, string Password)
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
+
+
+        public async Task<ActionResult<AuthDto>> Auth([FromForm]LoginDto loginDto)
         {
-            var user = await _authServices.LogIn(Phone, Password);
-            if (user == null) 
+            if (loginDto is null) 
             {
                 return BadRequest();
+            }
+            var user = await _authServices.LogIn(loginDto.Phone, loginDto.Password);
+
+            if (user is null) 
+            {
+                return NotFound();
             }
             
             var Id = user.Id.ToString();
 
-            var Token = _tokenService.GenerateToken(Id, user.RoleName,user.FirstName);
+            var Token =  _tokenService.GenerateToken(Id, user.RoleName,user.FirstName);
 
             return Ok(new { Token });
         }

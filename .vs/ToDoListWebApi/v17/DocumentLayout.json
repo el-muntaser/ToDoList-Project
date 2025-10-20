@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{053E1211-D367-4E7E-9613-3B75D48D46C3}|ToDoListBAL\\ToDoListBAL.csproj|d:\\back-end-projects\\todolistwebapi\\todolist-project\\todolistbal\\jwt\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{053E1211-D367-4E7E-9613-3B75D48D46C3}|ToDoListBAL\\ToDoListBAL.csproj|solutionrelative:todolistbal\\jwt\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{102BEA3D-87B9-4965-8B07-FB12D6B9CD09}|ToDoListWebApi\\ToDoListWebApi.csproj|d:\\back-end-projects\\todolistwebapi\\todolist-project\\todolistwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{102BEA3D-87B9-4965-8B07-FB12D6B9CD09}|ToDoListWebApi\\ToDoListWebApi.csproj|solutionrelative:todolistwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{102BEA3D-87B9-4965-8B07-FB12D6B9CD09}|ToDoListWebApi\\ToDoListWebApi.csproj|d:\\back-end-projects\\todolistwebapi\\todolist-project\\todolistwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{102BEA3D-87B9-4965-8B07-FB12D6B9CD09}|ToDoListWebApi\\ToDoListWebApi.csproj|solutionrelative:todolistwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{053E1211-D367-4E7E-9613-3B75D48D46C3}|ToDoListBAL\\ToDoListBAL.csproj|d:\\back-end-projects\\todolistwebapi\\todolist-project\\todolistbal\\jwt\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{053E1211-D367-4E7E-9613-3B75D48D46C3}|ToDoListBAL\\ToDoListBAL.csproj|solutionrelative:todolistbal\\jwt\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{102BEA3D-87B9-4965-8B07-FB12D6B9CD09}|ToDoListWebApi\\ToDoListWebApi.csproj|d:\\back-end-projects\\todolistwebapi\\todolist-project\\todolistwebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{102BEA3D-87B9-4965-8B07-FB12D6B9CD09}|ToDoListWebApi\\ToDoListWebApi.csproj|solutionrelative:todolistwebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053E1211-D367-4E7E-9613-3B75D48D46C3}|ToDoListBAL\\ToDoListBAL.csproj|d:\\back-end-projects\\todolistwebapi\\todolist-project\\todolistbal\\jwt\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{053E1211-D367-4E7E-9613-3B75D48D46C3}|ToDoListBAL\\ToDoListBAL.csproj|solutionrelative:todolistbal\\jwt\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F77F9A4-355F-4BBC-9E11-78A7B21B92DF}|ToDoListDTOs\\ToDoListDTOs.csproj|d:\\back-end-projects\\todolistwebapi\\todolist-project\\todolistdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F77F9A4-355F-4BBC-9E11-78A7B21B92DF}|ToDoListDTOs\\ToDoListDTOs.csproj|solutionrelative:todolistdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102BEA3D-87B9-4965-8B07-FB12D6B9CD09}|ToDoListWebApi\\ToDoListWebApi.csproj|d:\\back-end-projects\\todolistwebapi\\todolist-project\\todolistwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{102BEA3D-87B9-4965-8B07-FB12D6B9CD09}|ToDoListWebApi\\ToDoListWebApi.csproj|solutionrelative:todolistwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102BEA3D-87B9-4965-8B07-FB12D6B9CD09}|ToDoListWebApi\\ToDoListWebApi.csproj|d:\\back-end-projects\\todolistwebapi\\todolist-project\\todolistwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{102BEA3D-87B9-4965-8B07-FB12D6B9CD09}|ToDoListWebApi\\ToDoListWebApi.csproj|solutionrelative:todolistwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{053E1211-D367-4E7E-9613-3B75D48D46C3}|ToDoListBAL\\ToDoListBAL.csproj|d:\\back-end-projects\\todolistwebapi\\todolist-project\\todolistbal\\jwt\\jwtsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,37 +38,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListDTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "ToDoListDTOs\\LoginDto.cs",
+              "ToolTip": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListDTOs\\LoginDto.cs",
+              "RelativeToolTip": "ToDoListDTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T09:11:35.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "TokenService.cs",
               "DocumentMoniker": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListBAL\\jwt\\TokenService.cs",
               "RelativeDocumentMoniker": "ToDoListBAL\\jwt\\TokenService.cs",
               "ToolTip": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListBAL\\jwt\\TokenService.cs",
               "RelativeToolTip": "ToDoListBAL\\jwt\\TokenService.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBUAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwBUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-20T07:33:22.03Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ITokenService.cs",
               "DocumentMoniker": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListBAL\\jwt\\ITokenService.cs",
               "RelativeDocumentMoniker": "ToDoListBAL\\jwt\\ITokenService.cs",
               "ToolTip": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListBAL\\jwt\\ITokenService.cs",
               "RelativeToolTip": "ToDoListBAL\\jwt\\ITokenService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-20T07:32:49.516Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListWebApi\\appsettings.json",
               "RelativeDocumentMoniker": "ToDoListWebApi\\appsettings.json",
@@ -77,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListWebApi\\Program.cs",
               "RelativeDocumentMoniker": "ToDoListWebApi\\Program.cs",
@@ -90,20 +107,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListWebApi\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "ToDoListWebApi\\Controllers\\AuthController.cs",
               "ToolTip": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListWebApi\\Controllers\\AuthController.cs",
               "RelativeToolTip": "ToDoListWebApi\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAQwCIAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwCYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-20T07:42:02.397Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "JwtSetting.cs",
               "DocumentMoniker": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListBAL\\jwt\\JwtSetting.cs",
               "RelativeDocumentMoniker": "ToDoListBAL\\jwt\\JwtSetting.cs",
@@ -111,8 +128,7 @@
               "RelativeToolTip": "ToDoListBAL\\jwt\\JwtSetting.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T07:04:01.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T07:04:01.904Z"
             }
           ]
         }
