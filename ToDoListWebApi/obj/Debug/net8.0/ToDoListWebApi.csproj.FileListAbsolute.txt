@@ -181,7 +181,6 @@ D:\back-end-projects\ToDoListWebApi\ToDoList-Project\ToDoListWebApi\obj\Debug\ne
 D:\back-end-projects\ToDoListWebApi\ToDoList-Project\ToDoListWebApi\obj\Debug\net8.0\staticwebassets.build.json.cache
 D:\back-end-projects\ToDoListWebApi\ToDoList-Project\ToDoListWebApi\obj\Debug\net8.0\staticwebassets.development.json
 D:\back-end-projects\ToDoListWebApi\ToDoList-Project\ToDoListWebApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-D:\back-end-projects\ToDoListWebApi\ToDoList-Project\ToDoListWebApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\back-end-projects\ToDoListWebApi\ToDoList-Project\ToDoListWebApi\obj\Debug\net8.0\ToDoList.0957E093.Up2Date
 D:\back-end-projects\ToDoListWebApi\ToDoList-Project\ToDoListWebApi\obj\Debug\net8.0\ToDoListWebApi.dll
 D:\back-end-projects\ToDoListWebApi\ToDoList-Project\ToDoListWebApi\obj\Debug\net8.0\refint\ToDoListWebApi.dll

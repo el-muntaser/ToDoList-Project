@@ -15,5 +15,7 @@ namespace ToDoListDAL.Entity
         public string Password { get; set; } = null!;
         public int RoleId { get; set; }
         public Role Role { get; set; } = null!;
+
+        public List<taskEntity> Tasks { get; set; }
     }
 }

@@ -8,7 +8,7 @@ using ToDoListDAL.Data;
 using ToDoListDAL.Entity;
 using ToDoListDTOs;
 
-namespace ToDoListDAL.DataRepo
+namespace ToDoListDAL.DataRepo.UserRepo
 {
     public class UserManage : IUserManage
     {

@@ -19,11 +19,14 @@ namespace ToDoListDAL.Data
             base.OnModelCreating(modelBuilder);
             new RoleConfigure().Configure(modelBuilder.Entity<Role>());
             new UserConfigure().Configure(modelBuilder.Entity<User>());
+            new TaskConfigure().Configure(modelBuilder.Entity<taskEntity>());
 
         }
 
         public DbSet<User> Users { get; set; }
         public DbSet<Role> Roles { get; set; }
+
+        public DbSet<taskEntity> Tasks { get; set; }
 
     }
 }

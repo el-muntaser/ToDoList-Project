@@ -4,7 +4,7 @@ using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
-using ToDoListDAL.DataRepo;
+using ToDoListDAL.DataRepo.UserRepo;
 using ToDoListDAL.Entity;
 using ToDoListDTOs;
 

@@ -7,8 +7,11 @@ using System.Text;
 using ToDoListBAL;
 using ToDoListBAL.Auth;
 using ToDoListBAL.jwt;
+using ToDoListBAL.TaskServices;
 using ToDoListDAL.Data;
 using ToDoListDAL.DataRepo;
+using ToDoListDAL.DataRepo.taskRepo;
+using ToDoListDAL.DataRepo.UserRepo;
 
 namespace ToDoListWebApi
 {
@@ -50,9 +53,11 @@ namespace ToDoListWebApi
             builder.Services.AddScoped<IAuthRepo, AuthRepo>();
             builder.Services.AddScoped<IAuthServices, AuthServices>();
             builder.Services.AddScoped<ITokenService, TokenService>();
+            builder.Services.AddScoped<ITaskRepo, TaskRepo>();
+            builder.Services.AddScoped<ITaskServices, TaskServices>();
 
             builder.Services.AddControllers();
-            
+
 
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
