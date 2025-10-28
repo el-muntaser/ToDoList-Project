@@ -3,56 +3,8 @@
   "WorkspaceRootPath": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0375567B-0FB8-4864-8643-2BB791EEB9C3}|ToDoListDAL\\ToDoListDAL.csproj|d:\\back-end-projects\\todolistwebapi\\todolist-project\\todolistdal\\datarepo\\taskrepo\\taskrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0375567B-0FB8-4864-8643-2BB791EEB9C3}|ToDoListDAL\\ToDoListDAL.csproj|solutionrelative:todolistdal\\datarepo\\taskrepo\\taskrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{102BEA3D-87B9-4965-8B07-FB12D6B9CD09}|ToDoListWebApi\\ToDoListWebApi.csproj|d:\\back-end-projects\\todolistwebapi\\todolist-project\\todolistwebapi\\controllers\\taskmanagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{102BEA3D-87B9-4965-8B07-FB12D6B9CD09}|ToDoListWebApi\\ToDoListWebApi.csproj|solutionrelative:todolistwebapi\\controllers\\taskmanagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{102BEA3D-87B9-4965-8B07-FB12D6B9CD09}|ToDoListWebApi\\ToDoListWebApi.csproj|d:\\back-end-projects\\todolistwebapi\\todolist-project\\todolistwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{102BEA3D-87B9-4965-8B07-FB12D6B9CD09}|ToDoListWebApi\\ToDoListWebApi.csproj|solutionrelative:todolistwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F77F9A4-355F-4BBC-9E11-78A7B21B92DF}|ToDoListDTOs\\ToDoListDTOs.csproj|d:\\back-end-projects\\todolistwebapi\\todolist-project\\todolistdtos\\taskdtos\\updatetaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F77F9A4-355F-4BBC-9E11-78A7B21B92DF}|ToDoListDTOs\\ToDoListDTOs.csproj|solutionrelative:todolistdtos\\taskdtos\\updatetaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F77F9A4-355F-4BBC-9E11-78A7B21B92DF}|ToDoListDTOs\\ToDoListDTOs.csproj|d:\\back-end-projects\\todolistwebapi\\todolist-project\\todolistdtos\\taskdtos\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F77F9A4-355F-4BBC-9E11-78A7B21B92DF}|ToDoListDTOs\\ToDoListDTOs.csproj|solutionrelative:todolistdtos\\taskdtos\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{053E1211-D367-4E7E-9613-3B75D48D46C3}|ToDoListBAL\\ToDoListBAL.csproj|d:\\back-end-projects\\todolistwebapi\\todolist-project\\todolistbal\\taskservices\\taskservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{053E1211-D367-4E7E-9613-3B75D48D46C3}|ToDoListBAL\\ToDoListBAL.csproj|solutionrelative:todolistbal\\taskservices\\taskservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F77F9A4-355F-4BBC-9E11-78A7B21B92DF}|ToDoListDTOs\\ToDoListDTOs.csproj|d:\\back-end-projects\\todolistwebapi\\todolist-project\\todolistdtos\\taskdtos\\addtaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F77F9A4-355F-4BBC-9E11-78A7B21B92DF}|ToDoListDTOs\\ToDoListDTOs.csproj|solutionrelative:todolistdtos\\taskdtos\\addtaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0375567B-0FB8-4864-8643-2BB791EEB9C3}|ToDoListDAL\\ToDoListDAL.csproj|d:\\back-end-projects\\todolistwebapi\\todolist-project\\todolistdal\\configure\\taskconfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0375567B-0FB8-4864-8643-2BB791EEB9C3}|ToDoListDAL\\ToDoListDAL.csproj|solutionrelative:todolistdal\\configure\\taskconfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0375567B-0FB8-4864-8643-2BB791EEB9C3}|ToDoListDAL\\ToDoListDAL.csproj|d:\\back-end-projects\\todolistwebapi\\todolist-project\\todolistdal\\entity\\taskentity .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0375567B-0FB8-4864-8643-2BB791EEB9C3}|ToDoListDAL\\ToDoListDAL.csproj|solutionrelative:todolistdal\\entity\\taskentity .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{053E1211-D367-4E7E-9613-3B75D48D46C3}|ToDoListBAL\\ToDoListBAL.csproj|d:\\back-end-projects\\todolistwebapi\\todolist-project\\todolistbal\\taskservices\\itaskservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{053E1211-D367-4E7E-9613-3B75D48D46C3}|ToDoListBAL\\ToDoListBAL.csproj|solutionrelative:todolistbal\\taskservices\\itaskservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0375567B-0FB8-4864-8643-2BB791EEB9C3}|ToDoListDAL\\ToDoListDAL.csproj|d:\\back-end-projects\\todolistwebapi\\todolist-project\\todolistdal\\datarepo\\taskrepo\\itaskrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0375567B-0FB8-4864-8643-2BB791EEB9C3}|ToDoListDAL\\ToDoListDAL.csproj|solutionrelative:todolistdal\\datarepo\\taskrepo\\itaskrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0375567B-0FB8-4864-8643-2BB791EEB9C3}|ToDoListDAL\\ToDoListDAL.csproj|d:\\back-end-projects\\todolistwebapi\\todolist-project\\todolistdal\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0375567B-0FB8-4864-8643-2BB791EEB9C3}|ToDoListDAL\\ToDoListDAL.csproj|solutionrelative:todolistdal\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0375567B-0FB8-4864-8643-2BB791EEB9C3}|ToDoListDAL\\ToDoListDAL.csproj|d:\\back-end-projects\\todolistwebapi\\todolist-project\\todolistdal\\datarepo\\userrepo\\usermanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0375567B-0FB8-4864-8643-2BB791EEB9C3}|ToDoListDAL\\ToDoListDAL.csproj|solutionrelative:todolistdal\\datarepo\\userrepo\\usermanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,166 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 311,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UpdateTaskDto.cs",
-              "DocumentMoniker": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListDTOs\\taskDtos\\UpdateTaskDto.cs",
-              "RelativeDocumentMoniker": "ToDoListDTOs\\taskDtos\\UpdateTaskDto.cs",
-              "ToolTip": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListDTOs\\taskDtos\\UpdateTaskDto.cs",
-              "RelativeToolTip": "ToDoListDTOs\\taskDtos\\UpdateTaskDto.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T19:31:46.579Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TaskManageController.cs",
-              "DocumentMoniker": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListWebApi\\Controllers\\TaskManageController.cs",
-              "RelativeDocumentMoniker": "ToDoListWebApi\\Controllers\\TaskManageController.cs",
-              "ToolTip": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListWebApi\\Controllers\\TaskManageController.cs",
-              "RelativeToolTip": "ToDoListWebApi\\Controllers\\TaskManageController.cs",
-              "ViewState": "AgIAAHkAAAAAAAAAAAAAAIIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T08:44:27.228Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TaskRepo.cs",
-              "DocumentMoniker": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListDAL\\DataRepo\\taskRepo\\TaskRepo.cs",
-              "RelativeDocumentMoniker": "ToDoListDAL\\DataRepo\\taskRepo\\TaskRepo.cs",
-              "ToolTip": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListDAL\\DataRepo\\taskRepo\\TaskRepo.cs",
-              "RelativeToolTip": "ToDoListDAL\\DataRepo\\taskRepo\\TaskRepo.cs",
-              "ViewState": "AgIAAJkAAAAAAAAAAAAiwJYAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T08:27:57.574Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListWebApi\\Program.cs",
               "RelativeDocumentMoniker": "ToDoListWebApi\\Program.cs",
               "ToolTip": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListWebApi\\Program.cs",
               "RelativeToolTip": "ToDoListWebApi\\Program.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAAAFIAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwFAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T06:23:29.844Z",
+              "WhenOpened": "2025-10-28T16:39:18.488Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AddTaskDto.cs",
-              "DocumentMoniker": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListDTOs\\taskDtos\\AddTaskDto.cs",
-              "RelativeDocumentMoniker": "ToDoListDTOs\\taskDtos\\AddTaskDto.cs",
-              "ToolTip": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListDTOs\\taskDtos\\AddTaskDto.cs",
-              "RelativeToolTip": "ToDoListDTOs\\taskDtos\\AddTaskDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIAwwA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T17:39:08.865Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "taskEntity .cs",
-              "DocumentMoniker": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListDAL\\Entity\\taskEntity .cs",
-              "RelativeDocumentMoniker": "ToDoListDAL\\Entity\\taskEntity .cs",
-              "ToolTip": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListDAL\\Entity\\taskEntity .cs",
-              "RelativeToolTip": "ToDoListDAL\\Entity\\taskEntity .cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIAwwBAAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T07:09:00.758Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TaskConfigure.cs",
-              "DocumentMoniker": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListDAL\\Configure\\TaskConfigure.cs",
-              "RelativeDocumentMoniker": "ToDoListDAL\\Configure\\TaskConfigure.cs",
-              "ToolTip": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListDAL\\Configure\\TaskConfigure.cs",
-              "RelativeToolTip": "ToDoListDAL\\Configure\\TaskConfigure.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAIA/wBgAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T07:09:18.878Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TaskDto.cs",
-              "DocumentMoniker": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListDTOs\\taskDtos\\TaskDto.cs",
-              "RelativeDocumentMoniker": "ToDoListDTOs\\taskDtos\\TaskDto.cs",
-              "ToolTip": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListDTOs\\taskDtos\\TaskDto.cs",
-              "RelativeToolTip": "ToDoListDTOs\\taskDtos\\TaskDto.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T17:32:30.36Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UserManage.cs",
-              "DocumentMoniker": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListDAL\\DataRepo\\UserRepo\\UserManage.cs",
-              "RelativeDocumentMoniker": "ToDoListDAL\\DataRepo\\UserRepo\\UserManage.cs",
-              "ToolTip": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListDAL\\DataRepo\\UserRepo\\UserManage.cs",
-              "RelativeToolTip": "ToDoListDAL\\DataRepo\\UserRepo\\UserManage.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBQAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T17:40:39.265Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ITaskServices.cs",
-              "DocumentMoniker": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListBAL\\TaskServices\\ITaskServices.cs",
-              "RelativeDocumentMoniker": "ToDoListBAL\\TaskServices\\ITaskServices.cs",
-              "ToolTip": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListBAL\\TaskServices\\ITaskServices.cs",
-              "RelativeToolTip": "ToDoListBAL\\TaskServices\\ITaskServices.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA3wBQAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T06:25:09.52Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListDAL\\Entity\\User.cs",
-              "RelativeDocumentMoniker": "ToDoListDAL\\Entity\\User.cs",
-              "ToolTip": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListDAL\\Entity\\User.cs",
-              "RelativeToolTip": "ToDoListDAL\\Entity\\User.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBIAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T07:09:59.435Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ITaskRepo.cs",
-              "DocumentMoniker": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListDAL\\DataRepo\\taskRepo\\ITaskRepo.cs",
-              "RelativeDocumentMoniker": "ToDoListDAL\\DataRepo\\taskRepo\\ITaskRepo.cs",
-              "ToolTip": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListDAL\\DataRepo\\taskRepo\\ITaskRepo.cs",
-              "RelativeToolTip": "ToDoListDAL\\DataRepo\\taskRepo\\ITaskRepo.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAjwAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T17:31:25.79Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TaskServices.cs",
-              "DocumentMoniker": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListBAL\\TaskServices\\TaskServices.cs",
-              "RelativeDocumentMoniker": "ToDoListBAL\\TaskServices\\TaskServices.cs",
-              "ToolTip": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListBAL\\TaskServices\\TaskServices.cs",
-              "RelativeToolTip": "ToDoListBAL\\TaskServices\\TaskServices.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAWwGUAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T06:36:26.297Z"
             }
           ]
         }

@@ -23,6 +23,15 @@ namespace ToDoListWebApi
 
             // Add services to the container.
 
+            builder.Services.AddCors(option =>
+            {
+                option.AddPolicy("Allowfrontend",
+                    policy => policy.WithOrigins("http://localhost:3000", "https://your-frontend-domain.com")
+                    .AllowAnyHeader()
+                    .AllowAnyMethod()
+                    );
+            });
+
 
             builder.Services.AddDbContext<AppDbContext>(options =>
             options.UseSqlServer(builder.Configuration.GetConnectionString("default")));
@@ -71,6 +80,7 @@ namespace ToDoListWebApi
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
+            app.UseCors();
 
             app.UseHttpsRedirection();
 
