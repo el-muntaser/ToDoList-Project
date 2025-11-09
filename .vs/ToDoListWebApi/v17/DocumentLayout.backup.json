@@ -1,12 +1,85 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{102BEA3D-87B9-4965-8B07-FB12D6B9CD09}|ToDoListWebApi\\ToDoListWebApi.csproj|d:\\back-end-projects\\todolistwebapi\\todolist-project\\todolistwebapi\\controllers\\taskmanagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{102BEA3D-87B9-4965-8B07-FB12D6B9CD09}|ToDoListWebApi\\ToDoListWebApi.csproj|solutionrelative:todolistwebapi\\controllers\\taskmanagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102BEA3D-87B9-4965-8B07-FB12D6B9CD09}|ToDoListWebApi\\ToDoListWebApi.csproj|d:\\back-end-projects\\todolistwebapi\\todolist-project\\todolistwebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{102BEA3D-87B9-4965-8B07-FB12D6B9CD09}|ToDoListWebApi\\ToDoListWebApi.csproj|solutionrelative:todolistwebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102BEA3D-87B9-4965-8B07-FB12D6B9CD09}|ToDoListWebApi\\ToDoListWebApi.csproj|d:\\back-end-projects\\todolistwebapi\\todolist-project\\todolistwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{102BEA3D-87B9-4965-8B07-FB12D6B9CD09}|ToDoListWebApi\\ToDoListWebApi.csproj|solutionrelative:todolistwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102BEA3D-87B9-4965-8B07-FB12D6B9CD09}|ToDoListWebApi\\ToDoListWebApi.csproj|d:\\back-end-projects\\todolistwebapi\\todolist-project\\todolistwebapi\\controllers\\usermanagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{102BEA3D-87B9-4965-8B07-FB12D6B9CD09}|ToDoListWebApi\\ToDoListWebApi.csproj|solutionrelative:todolistwebapi\\controllers\\usermanagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 311,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskManageController.cs",
+              "DocumentMoniker": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListWebApi\\Controllers\\TaskManageController.cs",
+              "RelativeDocumentMoniker": "ToDoListWebApi\\Controllers\\TaskManageController.cs",
+              "ToolTip": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListWebApi\\Controllers\\TaskManageController.cs",
+              "RelativeToolTip": "ToDoListWebApi\\Controllers\\TaskManageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T18:52:38.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserManageController.cs",
+              "DocumentMoniker": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListWebApi\\Controllers\\UserManageController.cs",
+              "RelativeDocumentMoniker": "ToDoListWebApi\\Controllers\\UserManageController.cs",
+              "ToolTip": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListWebApi\\Controllers\\UserManageController.cs",
+              "RelativeToolTip": "ToDoListWebApi\\Controllers\\UserManageController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABcAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T17:02:36.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoListWebApi\\Program.cs",
+              "ToolTip": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListWebApi\\Program.cs",
+              "RelativeToolTip": "ToDoListWebApi\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAswCQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T19:59:47.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListWebApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ToDoListWebApi\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\back-end-projects\\ToDoListWebApi\\ToDoList-Project\\ToDoListWebApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ToDoListWebApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T19:45:59.372Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

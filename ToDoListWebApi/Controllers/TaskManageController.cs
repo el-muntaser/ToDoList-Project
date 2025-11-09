@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using ToDoListBAL.TaskServices;
 using ToDoListDAL.Entity;
@@ -18,6 +19,7 @@ namespace ToDoListWebApi.Controllers
         }
 
         [HttpPost("AddNewTask")]
+        [Authorize(Roles = "Admin")]
         [ProducesResponseType(StatusCodes.Status201Created)]
         public async Task<ActionResult<TaskDto>> AddNewTask([FromBody]AddTaskDto addTaskDto)
         {
@@ -35,6 +37,7 @@ namespace ToDoListWebApi.Controllers
         }
 
         [HttpGet("CountActiveTasks")]
+        [Authorize(Roles = "Admin")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         public async Task<ActionResult<int>> CountActiveTasks()
         {
@@ -45,6 +48,7 @@ namespace ToDoListWebApi.Controllers
 
 
         [HttpGet("CountDoneTasks")]
+        [Authorize(Roles = "Admin")]
         [ProducesResponseType(StatusCodes.Status200OK)]
 
         public async Task<ActionResult<int>> CountDoneTasks()
@@ -56,6 +60,7 @@ namespace ToDoListWebApi.Controllers
 
 
         [HttpGet("CountTasks")]
+        [Authorize(Roles = "Admin")]
         [ProducesResponseType(StatusCodes.Status200OK)]
 
         public async Task<ActionResult<int>> CountTasks()
@@ -65,10 +70,10 @@ namespace ToDoListWebApi.Controllers
             return Ok(count);
         }
 
-        [HttpDelete("DeleteTask{taskId}")]
+        [HttpDelete("DeleteTask/{taskId}")]
+        [Authorize(Roles = "Admin")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
-
         public async Task<ActionResult<bool>> DeleteTask(int taskId) 
         {
             if(taskId <= 0)
@@ -81,6 +86,7 @@ namespace ToDoListWebApi.Controllers
         }
 
         [HttpGet("GetAllActiveTasks")]
+        [Authorize(Roles = "Admin")]
         public async Task<ActionResult<List<TaskDto>>> GetAllActiveTasks()
         {
             var tasks = await _TaskServices.GetAllActiveTasks();
@@ -89,6 +95,7 @@ namespace ToDoListWebApi.Controllers
         }
 
         [HttpGet("getAllDoneTasks")]
+        [Authorize(Roles = "Admin")]
         public async Task<ActionResult<List<TaskDto>>> getAllDoneTasks()
         {
             var tasks = await _TaskServices.getAllDoneTasks();
@@ -97,6 +104,7 @@ namespace ToDoListWebApi.Controllers
         }
 
         [HttpGet("GetAllTasks")]
+        [Authorize(Roles = "Admin")]
         public async Task<ActionResult<List<TaskDto>>> GetAllTasks()
         {
             var tasks = await _TaskServices.GetAllTasks();
@@ -104,7 +112,8 @@ namespace ToDoListWebApi.Controllers
             return Ok(tasks);
         }
 
-        [HttpGet("GetAllTasksByUserId{userId}")]
+        [HttpGet("GetAllTasksByUserId/{userId}")]
+        [Authorize(Roles = "Admin,User")]
         public async Task<ActionResult<List<TaskDto>>> GetAllTasksByUserId(int userId)
         {
             var tasks = await _TaskServices.GetAllTasksByUserId(userId);
@@ -123,6 +132,7 @@ namespace ToDoListWebApi.Controllers
         }
 
         [HttpPut("UpdateTask")]
+        [Authorize(Roles = "Admin")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         public async Task<ActionResult<TaskDto>> UpdateTask(UpdateTaskDto task)
         {

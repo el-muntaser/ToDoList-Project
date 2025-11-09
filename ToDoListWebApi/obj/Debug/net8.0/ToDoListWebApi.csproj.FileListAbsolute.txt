@@ -188,3 +188,4 @@ D:\back-end-projects\ToDoListWebApi\ToDoList-Project\ToDoListWebApi\obj\Debug\ne
 D:\back-end-projects\ToDoListWebApi\ToDoList-Project\ToDoListWebApi\obj\Debug\net8.0\ToDoListWebApi.genruntimeconfig.cache
 D:\back-end-projects\ToDoListWebApi\ToDoList-Project\ToDoListWebApi\obj\Debug\net8.0\ref\ToDoListWebApi.dll
 D:\back-end-projects\ToDoListWebApi\ToDoList-Project\ToDoListWebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\back-end-projects\ToDoListWebApi\ToDoList-Project\ToDoListWebApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

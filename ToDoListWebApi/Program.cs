@@ -26,7 +26,7 @@ namespace ToDoListWebApi
             builder.Services.AddCors(option =>
             {
                 option.AddPolicy("Allowfrontend",
-                    policy => policy.WithOrigins("http://localhost:3000", "https://your-frontend-domain.com")
+                    policy => policy.WithOrigins("http://127.0.0.1:5500")
                     .AllowAnyHeader()
                     .AllowAnyMethod()
                     );
@@ -80,7 +80,7 @@ namespace ToDoListWebApi
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
-            app.UseCors();
+            app.UseCors("Allowfrontend");
 
             app.UseHttpsRedirection();
 

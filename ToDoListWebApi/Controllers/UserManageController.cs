@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using ToDoListBAL;
 using ToDoListDTOs;
@@ -17,6 +18,7 @@ namespace ToDoListWebApi.Controllers
         }
 
         [HttpPost("AddNewUser")]
+        [Authorize(Roles = "Admin")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         public async Task<ActionResult<ShowUserDto>> AddNewUser(AddUserDto addUserDto)
@@ -30,7 +32,9 @@ namespace ToDoListWebApi.Controllers
 
         }
 
+
         [HttpGet("GetAllUsers")]
+        [Authorize(Roles = "Admin")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         public async Task<ActionResult<List<ShowUserDto>>> GetAllUsers()
@@ -44,6 +48,7 @@ namespace ToDoListWebApi.Controllers
         }
 
         [HttpGet("GetUserByPhone")]
+        [Authorize(Roles = "Admin")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         public async Task<ActionResult<ShowUserDto>> GetUserByPhone(string phone)
@@ -64,6 +69,7 @@ namespace ToDoListWebApi.Controllers
         }
 
         [HttpDelete("DeleteUser/{Id}")]
+        [Authorize(Roles = "Admin")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         public async Task<ActionResult<bool>> DeleteUser(int Id)
@@ -77,6 +83,7 @@ namespace ToDoListWebApi.Controllers
         }
 
         [HttpGet("CountUser")]
+        [Authorize(Roles = "Admin")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         public async Task<ActionResult<int>> CounterUser()
@@ -91,6 +98,7 @@ namespace ToDoListWebApi.Controllers
         }
 
         [HttpPut("UpdateUser")]
+        [Authorize(Roles = "Admin")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]

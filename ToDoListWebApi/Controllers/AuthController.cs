@@ -25,7 +25,7 @@ namespace ToDoListWebApi.Controllers
         [ProducesResponseType(StatusCodes.Status404NotFound)]
 
 
-        public async Task<ActionResult<AuthDto>> Auth([FromForm]LoginDto loginDto)
+        public async Task<ActionResult<AuthDto>> Auth([FromBody]LoginDto loginDto)
         {
             if (loginDto is null) 
             {

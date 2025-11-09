@@ -8,14 +8,9 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "Phone",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "Password",
-        "Type": "System.String",
-        "IsRequired": false
+        "Name": "loginDto",
+        "Type": "ToDoListDTOs.LoginDto",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": [
@@ -137,7 +132,7 @@
   {
     "ContainingType": "ToDoListWebApi.Controllers.TaskManageController",
     "Method": "DeleteTask",
-    "RelativePath": "api/TaskManage/DeleteTask{taskId}",
+    "RelativePath": "api/TaskManage/DeleteTask/{taskId}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -232,7 +227,7 @@
   {
     "ContainingType": "ToDoListWebApi.Controllers.TaskManageController",
     "Method": "GetAllTasksByUserId",
-    "RelativePath": "api/TaskManage/GetAllTasksByUserId{userId}",
+    "RelativePath": "api/TaskManage/GetAllTasksByUserId/{userId}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -291,7 +286,7 @@
     "Parameters": [
       {
         "Name": "task",
-        "Type": "ToDoListDTOs.taskDtos.TaskDto",
+        "Type": "ToDoListDTOs.taskDtos.UpdateTaskDto",
         "IsRequired": true
       }
     ],
